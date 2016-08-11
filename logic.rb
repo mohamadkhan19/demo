@@ -12,3 +12,4 @@ while i < index
 end
 
 puts weather
+puts "weathers"
